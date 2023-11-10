@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWAG-5] Como usuário desejo manter uma forma de pagamento na loja virtual</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://rodrigolopesinf.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWAG-5]&nbsp;<a href="https://rodrigolopesinf.atlassian.net/browse/SWAG-5">Como usuário desejo manter uma forma de pagamento na loja virtual</a>
+            <span class="subText">
+               Criado: 10/nov/23                   &nbsp;Atualizado(a): 10/nov/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://rodrigolopesinf.atlassian.net/secure/BrowseProject.jspa?id=10001">SwagsLabsShopping</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="5ddf017a47baa50cfd063792"
+                id="word_reporter_5ddf017a47baa50cfd063792"
+                href="https://rodrigolopesinf.atlassian.net/secure/ViewProfile.jspa?accountId=5ddf017a47baa50cfd063792">
+                    Rodrigo Lopes
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10004-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10004-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000v:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10004-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li><b>Valor:</b>  A forma de pagamento é importante para que os clientes possam fazer compras na loja virtual.</li>
+	<li><b>Narrativa de usuário</b>
+	<ol>
+		<li><b>Como</b> usuário</li>
+		<li><b>Eu quero</b> manter uma forma de pagamento na loja virtual</li>
+		<li><b>Para</b> acessar as opções de inclusão, alteração e exclusão de uma forma de pagamento</li>
+	</ol>
+	</li>
+	<li><b>Requisitos</b>
+	<ul>
+		<li>Atores: usuário</li>
+		<li>Interfaces: ver documento em anexo</li>
+		<li>Dados
+		<ul>
+			<li>Criação do banco de dados</li>
+			<li>Criação de api para integração com front-end com o banco criado</li>
+			<li>Criação da tela de cadastro do produto</li>
+		</ul>
+		</li>
+		<li>Plataforma/Ambiente
+		<ul>
+			<li>Web / Web mobile</li>
+			<li>Criação de ambiente e pipeline para desenvolvimento, testes e homologação</li>
+		</ul>
+		</li>
+		<li>Critérios de aceite
+		<ul>
+			<li>Usuário deverá visualizar menu para acessar o cadastro de produtos</li>
+			<li>Usuário deverá visualizar o formulário para cadastro de produtos</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ol>
+
+
+
+
+<p>1 - Cenário: Forma de pagamento não cadastrada</p>
+
+<p>Dado que o usuário está na tela de cadastro de formas de pagamento e a mesma não está cadastrada no sistema,</p>
+
+<p>o usuário preenche as informações da forma de pagamento e clica no botão cadastrar.</p>
+
+<p>Uma mensagem de forma de pagamento cadastrada com sucesso é exibida.</p>
+
+
+
+<p>2 - Cenário: Editar uma forma de pagamento</p>
+
+<p>Dado que o usuário busca uma forma de pagamento cadastrada no grid e clica no botão editar, o usuário é redirecionado para o formulário de edição.</p>
+
+<p>O usuário preenche as informações que deseja editar e clica no botão salvar.</p>
+
+<p>Uma mensagem de forma de pagamento alterada com sucesso é exibida.</p>
+
+
+
+<p>3 - Cenário: Excluir uma forma de pagamento</p>
+
+<p>Dado que o usuário busca uma forma de pagamento cadastrada no grid e clica no botão excluir, uma mensagem de alerta é exibida.</p>
+
+<p>O usuário clica no botão confirmar e a forma de pagamento é excluída.</p>
+
+<p>O grid é limpo na tela.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Fri Nov 10 17:51:11 UTC 2023 por Rodrigo Lopes usando JIRA 1001.0.0-SNAPSHOT#100241-sha1:5602c6a504736dde20af04f6efe70d3c32b6a77b.
+
+</body>
+</html>
